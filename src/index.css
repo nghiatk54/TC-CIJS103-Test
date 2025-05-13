@@ -10,8 +10,4 @@
     font-family: var(--font-display);
   }
 
-  body {
-    background-color: #192026;
-    overflow-x: hidden;
-  }
 }
